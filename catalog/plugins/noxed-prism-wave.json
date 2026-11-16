@@ -12,7 +12,7 @@
     "wavetable"
   ],
   "asset_pattern": "noxed-prism-wave-*-mpc-armv7.zip",
-  "screenshot": "https://raw.githubusercontent.com/molgino/noxed-mpc-plugins/079d64842846e89d14fa410bfcd40231e2aadc06/docs/screenshots/prism-wave-osc.png",
+  "screenshot": "https://raw.githubusercontent.com/molgino/noxed-mpc-plugins/1110b39429a12560076ec01588e75c2ab38ada7c/docs/screenshots/prism-wave-osc.png",
   "homepage": "https://github.com/molgino/noxed-mpc-plugins",
   "tip": "https://ko-fi.com/noxend",
   "min_os": "3.10.1"

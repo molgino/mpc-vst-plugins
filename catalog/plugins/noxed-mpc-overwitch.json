@@ -12,7 +12,7 @@
     "usb"
   ],
   "asset_pattern": "noxed-mpc-overwitch-*-mpc-armv7.zip",
-  "screenshot": "https://raw.githubusercontent.com/molgino/noxed-mpc-plugins/079d64842846e89d14fa410bfcd40231e2aadc06/docs/screenshots/mpc-overwitch.png",
+  "screenshot": "https://raw.githubusercontent.com/molgino/noxed-mpc-plugins/1110b39429a12560076ec01588e75c2ab38ada7c/docs/screenshots/mpc-overwitch.png",
   "homepage": "https://github.com/molgino/noxed-mpc-plugins",
   "tip": "https://ko-fi.com/noxend",
   "min_os": "3.10.1"
