@@ -1,0 +1,19 @@
+{
+  "id": "noxed-mpc-overwitch",
+  "name": "MPC Overwitch",
+  "author": "NOXED",
+  "repo": "molgino/noxed-mpc-plugins",
+  "kind": "instrument",
+  "license": "GPL-3.0-or-later",
+  "summary": "Receives individual or grouped Elektron Overbridge outputs over USB, with MIDI forwarding and adaptive resampling. Tracks are arranged in two rows of eight, with effects and input below. Requires an Overbridge-capable device.",
+  "style": "utility",
+  "tags": [
+    "utility",
+    "usb"
+  ],
+  "asset_pattern": "noxed-mpc-overwitch-*-mpc-armv7.zip",
+  "screenshot": "https://raw.githubusercontent.com/molgino/noxed-mpc-plugins/1110b39429a12560076ec01588e75c2ab38ada7c/docs/screenshots/mpc-overwitch.png",
+  "homepage": "https://github.com/molgino/noxed-mpc-plugins",
+  "tip": "https://ko-fi.com/noxend",
+  "min_os": "3.10.1"
+}

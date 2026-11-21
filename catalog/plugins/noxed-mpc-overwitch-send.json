@@ -1,0 +1,19 @@
+{
+  "id": "noxed-mpc-overwitch-send",
+  "name": "MPC Overwitch Send",
+  "author": "NOXED",
+  "repo": "molgino/noxed-mpc-plugins",
+  "kind": "effect",
+  "license": "GPL-3.0-or-later",
+  "summary": "Sends MPC track audio to the inputs of an Elektron Overbridge device over the shared Overwitch USB connection. Includes dry and send levels. Requires an Overbridge-capable device.",
+  "style": "utility",
+  "tags": [
+    "utility",
+    "usb"
+  ],
+  "asset_pattern": "noxed-mpc-overwitch-send-*-mpc-armv7.zip",
+  "screenshot": "https://raw.githubusercontent.com/molgino/noxed-mpc-plugins/1110b39429a12560076ec01588e75c2ab38ada7c/docs/screenshots/mpc-overwitch-send.png",
+  "homepage": "https://github.com/molgino/noxed-mpc-plugins",
+  "tip": "https://ko-fi.com/noxend",
+  "min_os": "3.10.1"
+}
